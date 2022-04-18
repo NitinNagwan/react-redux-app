@@ -1,0 +1,5 @@
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_ANSWER = 'FETCH_ANSWER'
+export const IS_LOGEDIN = 'IS_LOGEDIN'
+export const IS_LOGEDOUT = 'IS_LOGEDOUT'
+export const IS_ADMIN = 'IS_ADMIN'
