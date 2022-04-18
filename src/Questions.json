@@ -1,0 +1,80 @@
+{
+  "quetions": [
+    {
+      "Question": "Inside which HTML element do we put the JavaScript?",
+      "Option1": "<js>",
+      "Option2": "<script>",
+      "Option3": "<body>",
+      "Option4": "<html>",
+      "Answer": "<script>",
+      "id": 1
+    },
+    {
+      "Question": " Which of the following is an advantage of using JavaScript?",
+      "Option1": "Less server interaction",
+      "Option2": "Immediate feedback to the visitors",
+      "Option3": "Increased interactivity",
+      "Option4": "All of the above.",
+      "Answer": "All of the above.",
+      "id": 2
+    },
+    {
+      "Question": "Which built-in method returns the character at the specified index?",
+      "Option1": "characterAt()",
+      "Option2": "getCharAt()",
+      "Option3": "charAt()",
+      "Option4": "None of the above.",
+      "Answer": "charAt()",
+      "id": 3
+    }
+  ],
+  "StudentAnswer": [
+    {
+      "user": "Garvit",
+      "SelectedAnswers": [
+        "<script>",
+        "All of the above.",
+        "charAt()"
+      ],
+      "Score": 30,
+      "id": 1
+    }
+  ],
+  "Students": [
+    {
+      "user": "Nitin",
+      "email": "nitin@mail.com",
+      "password": "12345",
+      "admin": true,
+      "id": 1
+    },
+    {
+      "user": "Garvit",
+      "email": "garvit@mail.com",
+      "password": "56789",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "user": "Affan",
+      "email": "affan@mail.com",
+      "password": "56789",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "user": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "123456789",
+      "admin": false,
+      "id": 4
+    },
+    {
+      "user": "Shaad",
+      "email": "shaad@mail.com",
+      "password": "32",
+      "admin": false,
+      "id": 6
+    }
+  ]
+}
